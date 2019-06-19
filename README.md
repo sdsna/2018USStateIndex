@@ -17,7 +17,7 @@ For data from our other projects, see https://github.com/sdsna.
 
 The data is distributed in Excel format.
 
-1. Cross-sectional data from most recent year, US State Index Results 2018, available in [Excel](https://github.com/sdsna/2018USStatelIndex/blob/master/2018USStateIndexResults.xlsx)  format.
+1. Cross-sectional data from most recent year, US State Index Results 2018, available in [Excel](https://github.com/sdsna/2018USStateIndex/blob/master/2018USStateIndexResults.xlsx) format.
 
 ## Methodology
 
