@@ -21,7 +21,7 @@ The data is distributed in Excel format.
 
 ## Methodology
 
-[US State Index and Dashboards - Methodology 2018](https://github.com/sdsna/2018StateIndex/blob/master/2018USStateIndexMethodology.pdf)
+[US State Index and Dashboards - Methodology 2018](https://github.com/sdsna/2018USStateIndex/blob/master/2018USStateIndexMethodology.pdf)
 
 ## License
 
