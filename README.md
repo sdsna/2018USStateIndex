@@ -34,9 +34,9 @@ Publication design and layout by [Pica Publishing](http://www.pica-publishing.co
 
 ## Endmatter
 
-Please notify us about any publications that result from the use of the SDG Index and Dashboards Report and data by sending your bibliographic citation to usa@sdsn.org and including information on your publication.
+Please notify us about any publications that result from the use of the SDG Index and Dashboards Report and data by sending your bibliographic citation to usa@unsdsn.org and including information on your publication.
 
-If you have questions, please contact SDSN at <usa@sdsn.org>.
+If you have questions, please contact SDSN at <usa@unsdsn.org>.
 
 The views expressed in this report do not reflect the views of any organization, agency or programme of the United Nations. It has been prepared by a team of independent experts of the SDSN Secretariat.
 
